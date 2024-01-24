@@ -8,3 +8,6 @@ console.log(a + b);
 function sample() {
   console.log("Hii");
 }
+const x = () => {
+  console.log("Welcome");
+};
