@@ -4,3 +4,7 @@ console.log(a + b);
 
 // commit 1 : in feature branch;
 // going to rebase this branch
+
+const x = () => {
+  console.log("Welcome");
+};
