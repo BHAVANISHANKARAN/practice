@@ -3,3 +3,4 @@ var b = 6;
 console.log(a + b);
 
 // commit 1 : in feature branch;
+// going to rebase this branch
